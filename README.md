@@ -4,6 +4,8 @@
 
 ### AI-Powered Workflow Automation Platform
 
+### [Try the Live Demo →](https://zoom1-beta.vercel.app)
+
 Describe your automation goal in plain English — an AI agent builds, visualizes, and executes multi-step workflows across your favorite tools.
 
 [Live Demo](https://zoom1-beta.vercel.app) · [Features](#features) · [Architecture](#architecture) · [Getting Started](#getting-started) · [Case Study](#product-case-study)
