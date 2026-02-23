@@ -49,8 +49,7 @@ FlowPilot is the first workflow automation platform built **AI-first**. Instead 
 
 ### Video Walkthrough
 
-<!-- Replace with your video link -->
-> *Video coming soon*
+[![FlowPilot Demo](https://img.youtube.com/vi/EZEBizj6U_4/maxresdefault.jpg)](https://youtu.be/EZEBizj6U_4)
 
 ---
 
