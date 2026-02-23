@@ -39,17 +39,11 @@ FlowPilot is the first workflow automation platform built **AI-first**. Instead 
 
 | Landing Page | Workflow Builder | Visual Canvas |
 |:---:|:---:|:---:|
-| <img width="1909" height="943" alt="image" src="https://github.com/user-attachments/assets/19b34629-2103-4122-8f30-503c81bb9348" />
- | <img width="1905" height="941" alt="image" src="https://github.com/user-attachments/assets/4419198b-d6e2-4529-8b56-16aa63a33be8" />
- | <img width="1895" height="942" alt="image" src="https://github.com/user-attachments/assets/b88a380e-54db-42c5-a8da-72d8f2ede7dd" />
- |
+| <img width="600" alt="Landing Page" src="https://github.com/user-attachments/assets/19b34629-2103-4122-8f30-503c81bb9348" /> | <img width="600" alt="Workflow Builder" src="https://github.com/user-attachments/assets/4419198b-d6e2-4529-8b56-16aa63a33be8" /> | <img width="600" alt="Visual Canvas" src="https://github.com/user-attachments/assets/b88a380e-54db-42c5-a8da-72d8f2ede7dd" /> |
 
 | Analytics Dashboard | Template Library | Execution History |
 |:---:|:---:|:---:|
-| <img width="1888" height="942" alt="image" src="https://github.com/user-attachments/assets/8b020907-6a7a-4e6c-a0d3-8f666c67ee30" />
- | <img width="1904" height="942" alt="image" src="https://github.com/user-attachments/assets/12e523dd-15f5-4755-a8de-c1141cc626bd" />
- | <img width="1906" height="945" alt="image" src="https://github.com/user-attachments/assets/e8c16dac-80c9-447e-b8e1-6155679848d5" />
- |
+| <img width="600" alt="Analytics Dashboard" src="https://github.com/user-attachments/assets/8b020907-6a7a-4e6c-a0d3-8f666c67ee30" /> | <img width="600" alt="Template Library" src="https://github.com/user-attachments/assets/12e523dd-15f5-4755-a8de-c1141cc626bd" /> | <img width="600" alt="Execution History" src="https://github.com/user-attachments/assets/e8c16dac-80c9-447e-b8e1-6155679848d5" /> |
 
 ### Video Walkthrough
 
